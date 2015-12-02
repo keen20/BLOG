@@ -1,4 +1,4 @@
-�ò���ϵͳʹ��javaDB���ݿ⣬tomcat������
-FCKediter�༭���������ʵ�����в�����Ҫ����
-�û���������
-���룺123
+该博客系统使用javaDB数据库，tomcat服务器
+FCKediter编辑器插件，已实现所有博客需要功能，详见截图
+用户名：王昆
+密码：123
